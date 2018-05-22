@@ -1,8 +1,8 @@
 
 ## Background
-This project is part of [The Complete Unity Developer 2.0](https://www.udemy.com/unitycourse2/?couponCode=GITHUB_SPECIAL), the sequel to one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques. You will benefit from the fact we have already taught over 300,000 students game development, many shipping commercial games as a result.
+This is the [Complete Unity C# Developer 3D](http://gdev.tv/cu2github), the long-awaited sequel to the [Complete Unity C# Developer 2D](http://gdev.tv/cudgithub) - one of the most successful e-learning courses on the internet! Completely re-worked from scratch with brand-new projects, our latest teaching techniques,. You will benefit from the fact we have already taught over 350,000 students game development, many shipping commercial games as a result.
 
-You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo.
+You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Complete Unity C# Developer 3D](http://gdev.tv/cu2github)
 
 ## Project Pre-requisites
 In order to start this section you should have either finished [the previous section of this course](https://github.com/CompleteUnityDeveloper2/2_Terminal_Hacker), or be able to complete it's learning outcomes.
